@@ -1,6 +1,6 @@
 ![me](https://github.com/L1cardo/L1cardo/raw/master/assets/me.gif)
 
-##**Hi**👋, **I'm Rafat**
+<h1 align="center">Hi I'm Rafat 👋</h1>
 
 Hi there, I'm **Rafat Hanna**, a **cs student**.
 
