@@ -2,14 +2,14 @@
 
 <h1 align="center">Hi I'm Rafat 👋</h1>
 
-Hi there, I'm **Rafat Hanna**, a **cs student**.
+Hi there, I'm **Rafat Hanna**, a **Front End Dev**.
 
 Have no title , just Rafat Hanna ♥
 
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a cs student at my 4th year; 
+
 - 🤔 My interests are with programming
 - 💼 I’m pursuing a Bachelor's degree computer sience
 - 💬 Ask me about anything, I am happy to help;
