@@ -60,9 +60,6 @@ Always eager to **learn new skills, contribute to projects, and grow as a develo
 
 ### 🌟 GitHub Stats
 
-![Rafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafathanna&show_icons=true&theme=radical)  
-![Rafat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafathanna&layout=compact&theme=radical)
-
 ---
 
 ### 🔗 Connect with Me
