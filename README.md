@@ -1,86 +1,18 @@
-![Animated Me](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+# 💫 About Me:
+🔭 Working on React & Next.js projects<br><br>👯 Open to collaboration<br><br>🤝 Looking for learning & growth<br><br>🌱 Learning advanced frontend<br><br>💬 Ask me about React / Next.js<br><br>⚡ Fun fact: I love building ideas into products
 
-<h1 align="center">Hi, I'm Rafat 👋</h1>
 
-Hi there! I'm **Rafat Hanna**, a **Front-End Developer**.  
-No fancy title, just **Rafat Hanna ♥**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rafat.hanna.925) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.linkedin.com/in/rafat-hanna-03b661246) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rafat-hanna-03b661246) 
 
----
-
-### 💬 About Me
-
-- 🤔 Passionate about programming and web development  
-- 💼 Pursuing a Bachelor's degree in Computer Science  
-- 💬 Ask me about anything, I am happy to help  
-- 📫 Contact me via email for any questions  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rafathanna&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rafathanna&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafathanna&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=rafathanna&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📝 Summary
-
-I am a **Front-End Developer** specializing in **React.js** with experience in **Redux Toolkit, TypeScript, and modern web technologies**.  
-I build **responsive, clean, and modern user interfaces** with attention to detail.  
-Always eager to **learn new skills, contribute to projects, and grow as a developer**.  
-
----
-
-### 🛠️ Technologies & Skills
-
-<div align="center">
-
-<!-- Front-End -->
-<a href="#" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-</a>
-<a href="#" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-</a>
-<a href="#" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</a>
-<a href="#" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</a>
-<a href="#" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-</a>
-<a href="#" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</a>
-<a href="#" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-</a>
-<a href="#" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
-</a>
-
-</div>
-
----
-
-### 🌟 GitHub Stats
-
----
-
-### 🔗 Connect with Me
-
-<div align="center">
-<a href="https://www.linkedin.com/in/rafathanna" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/rafathanna" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://www.facebook.com/rafat.hanna.925" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-<a href="https://dev.to/ABSphreak" target="_blank">
-  <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=for-the-badge&logo=DEV.to&logoColor=white" alt="DEV.to">
-</a>
-</div>
-
----
-
-### 🌟 From [Rafat](https://github.com/rafathanna)
-
-Happy Coding! 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
